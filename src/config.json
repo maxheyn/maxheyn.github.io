@@ -10,8 +10,7 @@
         {
             "id": 0,
             "title": "Miniblock Traders",
-            "subtitle": "Bite-Sized Decoration",
-            "imgName": "GitHubMiniblockTradersBanner",
+            "imgName": "MiniblockTradersBanner",
             "desc": "test descrtiption bleh blehaha",
             "repo": "https://github.com/maxheyn/miniblock_traders",
             "pmc": "https://www.planetminecraft.com/data-pack/miniblock-traders/",
@@ -20,52 +19,92 @@
         {
             "id": 1,
             "title": "City Districts",
-            "subtitle": "RPG-Like Titles",
-            "imgName": "GitHubCityDistrictsBanner",
+            "imgName": "CityDistrictsBanner",
             "desc": "test other description lbla blah",
             "repo": "https://github.com/maxheyn/city_districts",
-            "pmc": "https: //www.planetminecraft.com/data-pack/city-districts/",
+            "pmc": "https://www.planetminecraft.com/data-pack/city-districts-rpg-like-titles/",
             "dirdl": "https://github.com/maxheyn/city_districts/releases/download/v2.0.0/city_districts.zip"
         },
         {
             "id": 2,
-            "title": "Miniblock Traders",
-            "subtitle": "Bite-Sized Decoration",
-            "imgName": "GitHubMiniblockTradersBanner",
+            "title": "Warp Shrines",
+            "imgName": "WarpShrinesBanner",
             "desc": "test descrtiption bleh blehaha",
-            "repo": "https://github.com/maxheyn/miniblock_traders",
-            "pmc": "https://www.planetminecraft.com/data-pack/miniblock-traders/",
-            "dirdl": "https://github.com/maxheyn/miniblock_traders/releases/download/v2.4.5/miniblock_traders.zip"
+            "repo": "https://github.com/maxheyn/warp_shrines",
+            "pmc": "https://www.planetminecraft.com/data-pack/warp-shrines-teleport-between-locations/",
+            "dirdl": "https://github.com/maxheyn/warp_shrines/releases/download/v2.0.0/warp_shrines.zip"
         },
         {
             "id": 3,
-            "title": "City Districts",
-            "subtitle": "RPG-Like Titles",
-            "imgName": "GitHubCityDistrictsBanner",
-            "desc": "test other description lbla blah",
-            "repo": "https://github.com/maxheyn/city_districts",
-            "pmc": "https: //www.planetminecraft.com/data-pack/city-districts/",
-            "dirdl": "https://github.com/maxheyn/city_districts/releases/download/v2.0.0/city_districts.zip"
+            "title": "Babees",
+            "imgName": "BabeesBanner",
+            "desc": "test descrtiption bleh blehaha",
+            "repo": "https://github.com/maxheyn/babees",
+            "pmc": "https://www.planetminecraft.com/data-pack/babees-adorable-baby-bees/",
+            "dirdl": "https://github.com/maxheyn/babees/releases/download/v1.0.0/babees.zip"
         },
         {
             "id": 4,
-            "title": "Miniblock Traders",
-            "subtitle": "Bite-Sized Decoration",
-            "imgName": "GitHubMiniblockTradersBanner",
+            "title": "Hip Hoppers",
+            "imgName": "HipHoppersBanner",
             "desc": "test descrtiption bleh blehaha",
-            "repo": "https://github.com/maxheyn/miniblock_traders",
-            "pmc": "https://www.planetminecraft.com/data-pack/miniblock-traders/",
-            "dirdl": "https://github.com/maxheyn/miniblock_traders/releases/download/v2.4.5/miniblock_traders.zip"
+            "repo": "https://github.com/maxheyn/hiphoppers",
+            "pmc": "https://www.planetminecraft.com/data-pack/hip-hoppers-permanent-baby-bunnies/",
+            "dirdl": "https://www.planetminecraft.com/data-pack/hip-hoppers-permanent-baby-bunnies/download/file/14977697/"
         },
         {
             "id": 5,
-            "title": "City Districts",
-            "subtitle": "RPG-Like Titles",
-            "imgName": "GitHubCityDistrictsBanner",
-            "desc": "test other description lbla blah",
-            "repo": "https://github.com/maxheyn/city_districts",
-            "pmc": "https: //www.planetminecraft.com/data-pack/city-districts/",
-            "dirdl": "https://github.com/maxheyn/city_districts/releases/download/v2.0.0/city_districts.zip"
+            "title": "Beastiary",
+            "imgName": "BeastiaryBanner",
+            "desc": "test descrtiption bleh blehaha",
+            "repo": "https://github.com/maxheyn/beastiary",
+            "pmc": "",
+            "dirdl": ""
+        },
+        {
+            "id": 6,
+            "title": "Immersive Atmospheres",
+            "imgName": "ImmersiveAtmospheresBanner",
+            "desc": "test descrtiption bleh blehaha",
+            "repo": "https://github.com/maxheyn/immersive_atmospheres",
+            "pmc": "https://www.planetminecraft.com/data-pack/immersive-atmospheres/",
+            "dirdl": "https://github.com/maxheyn/immersive_atmospheres/releases/download/v2.0.0/immersive_atmospheres.zip"
+        },
+        {
+            "id": 7,
+            "title": "Illegal Water",
+            "imgName": "IllegalWaterBanner",
+            "desc": "test descrtiption bleh blehaha",
+            "repo": "https://github.com/maxheyn/illegal_water",
+            "pmc": "https://www.planetminecraft.com/data-pack/illegal-water/",
+            "dirdl": "https://github.com/maxheyn/illegal_water/releases/download/v2.0.0/illegal_water.zip"
+        },
+        {
+            "id": 8,
+            "title": "Birch Tree Remover",
+            "imgName": "BirchTreeRemoverBanner",
+            "desc": "test descrtiption bleh blehaha",
+            "repo": "",
+            "pmc": "https://www.planetminecraft.com/data-pack/birch-remover/",
+            "dirdl": "https://www.planetminecraft.com/data-pack/birch-remover/download/file/14982580/"
+        },
+        {
+            "id": 9,
+            "title": "Rabbits To Toads",
+            "imgName": "RabbitsToToadsBanner",
+            "desc": "test descrtiption bleh blehaha",
+            "repo": "",
+            "pmc": "https://www.planetminecraft.com/texture-pack/rabbits-to-toads/",
+            "dirdl": "https://www.planetminecraft.com/texture-pack/rabbits-to-toads/download/file/14974427/"
+        },
+        {
+            "id": 10,
+            "title": "Subtle Armor",
+            "imgName": "SubtleArmorBanner",
+            "desc": "test descrtiption bleh blehaha",
+            "repo": "",
+            "pmc": "https://www.planetminecraft.com/texture-pack/subtle-armor/",
+            "dirdl": "https://www.planetminecraft.com/texture-pack/subtle-armor/download/file/14886299/"
         }
     ]
 }

@@ -32,9 +32,6 @@ function App() {
         <Box sx={{ flexGrow: 1 }}>
           <AppBar position="static">
             <Toolbar>
-              <IconButton size="large" edge="start" color="inherit" aria-label="menu" sx={{ mr: 2 }}>
-                <MenuIcon />
-              </IconButton>
               <Typography variant="h6" color="light" sx={{ flexGrow: 1 }}>
                 Max Herold
               </Typography>
@@ -48,9 +45,9 @@ function App() {
           </AppBar>
         </Box>
         <Switch>
-          <Route exact path="/" component={PortfolioMain} />
+          <Route exact path="/" component={PortfolioMain} title='home' />
           <Route path="/contact" component={Contact} />
-          <Route path="/projects" component={Projects} />
+          <Route path="/projects" component={Projects} title='projects' />
         </Switch>
       </HashRouter >
     </ThemeProvider >
