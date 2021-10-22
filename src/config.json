@@ -6,105 +6,105 @@
         "planetminecraft": "",
         "discord": ""
     },
-    "projects": [
+    "minecraftProjects": [
         {
             "id": 0,
             "title": "Miniblock Traders",
             "imgName": "MiniblockTradersBanner",
-            "desc": "test descrtiption bleh blehaha",
+            "desc": "Get over 500+ curated, unique, and decorative miniblocks from over 20+ Miniblock Traders. Survival and Creative mode friendly.",
             "repo": "https://github.com/maxheyn/miniblock_traders",
             "pmc": "https://www.planetminecraft.com/data-pack/miniblock-traders/",
             "dirdl": "https://github.com/maxheyn/miniblock_traders/releases/download/v2.4.5/miniblock_traders.zip"
         },
         {
             "id": 1,
-            "title": "City Districts",
-            "imgName": "CityDistrictsBanner",
-            "desc": "test other description lbla blah",
-            "repo": "https://github.com/maxheyn/city_districts",
-            "pmc": "https://www.planetminecraft.com/data-pack/city-districts-rpg-like-titles/",
-            "dirdl": "https://github.com/maxheyn/city_districts/releases/download/v2.0.0/city_districts.zip"
-        },
-        {
-            "id": 2,
             "title": "Warp Shrines",
             "imgName": "WarpShrinesBanner",
-            "desc": "test descrtiption bleh blehaha",
+            "desc": "Adds craftable, buildable Warp Shrines to the game, allowing the player to set up a vanilla, survival-friendly teleportation network.",
             "repo": "https://github.com/maxheyn/warp_shrines",
             "pmc": "https://www.planetminecraft.com/data-pack/warp-shrines-teleport-between-locations/",
             "dirdl": "https://github.com/maxheyn/warp_shrines/releases/download/v2.0.0/warp_shrines.zip"
         },
         {
+            "id": 2,
+            "title": "City Districts",
+            "imgName": "CityDistrictsBanner",
+            "desc": "Create RPG-Like titles in certain areas that show up when you walk over them. Good for roleplaying or adding a bit of extra flair to a build.",
+            "repo": "https://github.com/maxheyn/city_districts",
+            "pmc": "https://www.planetminecraft.com/data-pack/city-districts-rpg-like-titles/",
+            "dirdl": "https://github.com/maxheyn/city_districts/releases/download/v2.0.0/city_districts.zip"
+        },
+        {
             "id": 3,
-            "title": "Babees",
-            "imgName": "BabeesBanner",
-            "desc": "test descrtiption bleh blehaha",
-            "repo": "https://github.com/maxheyn/babees",
-            "pmc": "https://www.planetminecraft.com/data-pack/babees-adorable-baby-bees/",
-            "dirdl": "https://github.com/maxheyn/babees/releases/download/v1.0.0/babees.zip"
-        },
-        {
-            "id": 4,
-            "title": "Hip Hoppers",
-            "imgName": "HipHoppersBanner",
-            "desc": "test descrtiption bleh blehaha",
-            "repo": "https://github.com/maxheyn/hiphoppers",
-            "pmc": "https://www.planetminecraft.com/data-pack/hip-hoppers-permanent-baby-bunnies/",
-            "dirdl": "https://www.planetminecraft.com/data-pack/hip-hoppers-permanent-baby-bunnies/download/file/14977697/"
-        },
-        {
-            "id": 5,
-            "title": "Beastiary",
-            "imgName": "BeastiaryBanner",
-            "desc": "test descrtiption bleh blehaha",
-            "repo": "https://github.com/maxheyn/beastiary",
-            "pmc": "",
-            "dirdl": ""
-        },
-        {
-            "id": 6,
             "title": "Immersive Atmospheres",
             "imgName": "ImmersiveAtmospheresBanner",
-            "desc": "test descrtiption bleh blehaha",
+            "desc": "Add cool, aesthetic, and immersive atmospheric effects to your worlds! Falling snow, leaves, sandstorms, etc!",
             "repo": "https://github.com/maxheyn/immersive_atmospheres",
             "pmc": "https://www.planetminecraft.com/data-pack/immersive-atmospheres/",
             "dirdl": "https://github.com/maxheyn/immersive_atmospheres/releases/download/v2.0.0/immersive_atmospheres.zip"
         },
         {
-            "id": 7,
+            "id": 4,
+            "title": "Beastiary",
+            "imgName": "BeastiaryBanner",
+            "desc": "When you look at a monster or creature with a Spyglass, information about it gets added to your Beastiary in the Advancements tab. Collect 'em all!",
+            "repo": "https://github.com/maxheyn/beastiary",
+            "pmc": "",
+            "dirdl": ""
+        },
+        {
+            "id": 5,
             "title": "Illegal Water",
             "imgName": "IllegalWaterBanner",
-            "desc": "test descrtiption bleh blehaha",
+            "desc": "Adds a special craftable heatproof water item that lets the player create water source blocks in the Nether when tossed ontop of a Soul Campfire.",
             "repo": "https://github.com/maxheyn/illegal_water",
             "pmc": "https://www.planetminecraft.com/data-pack/illegal-water/",
             "dirdl": "https://github.com/maxheyn/illegal_water/releases/download/v2.0.0/illegal_water.zip"
         },
         {
-            "id": 8,
-            "title": "Birch Tree Remover",
-            "imgName": "BirchTreeRemoverBanner",
-            "desc": "test descrtiption bleh blehaha",
-            "repo": "",
-            "pmc": "https://www.planetminecraft.com/data-pack/birch-remover/",
-            "dirdl": "https://www.planetminecraft.com/data-pack/birch-remover/download/file/14982580/"
+            "id": 6,
+            "title": "Babees",
+            "imgName": "BabeesBanner",
+            "desc": "Keep permanent baby bees! Obtain some honeycomb and toss it at a bee to make it a baby bee... permanently!",
+            "repo": "https://github.com/maxheyn/babees",
+            "pmc": "https://www.planetminecraft.com/data-pack/babees-adorable-baby-bees/",
+            "dirdl": "https://github.com/maxheyn/babees/releases/download/v1.0.0/babees.zip"
         },
         {
-            "id": 9,
+            "id": 7,
+            "title": "Hip Hoppers",
+            "imgName": "HipHoppersBanner",
+            "desc": "Obtain a rabbit's foot and toss it at a rabbit to make it a baby rabbit... permanently! Ignore the implications...",
+            "repo": "https://github.com/maxheyn/hiphoppers",
+            "pmc": "https://www.planetminecraft.com/data-pack/hip-hoppers-permanent-baby-bunnies/",
+            "dirdl": "https://www.planetminecraft.com/data-pack/hip-hoppers-permanent-baby-bunnies/download/file/14977697/"
+        },
+        {
+            "id": 8,
             "title": "Rabbits To Toads",
             "imgName": "RabbitsToToadsBanner",
-            "desc": "test descrtiption bleh blehaha",
+            "desc": "Replaces the Rabbit Model with a Toad model. Changes sounds, mob and item textures, and localization for rabbit names and items.",
             "repo": "",
             "pmc": "https://www.planetminecraft.com/texture-pack/rabbits-to-toads/",
             "dirdl": "https://www.planetminecraft.com/texture-pack/rabbits-to-toads/download/file/14974427/"
         },
         {
-            "id": 10,
+            "id": 9,
             "title": "Subtle Armor",
             "imgName": "SubtleArmorBanner",
-            "desc": "test descrtiption bleh blehaha",
+            "desc": "Updates armor to be MUCH less intrusive. Most of a skin will be visible with this on, with armor still being visible but extremely subtle.",
             "repo": "",
             "pmc": "https://www.planetminecraft.com/texture-pack/subtle-armor/",
             "dirdl": "https://www.planetminecraft.com/texture-pack/subtle-armor/download/file/14886299/"
+        },
+        {
+            "id": 10,
+            "title": "Birch Tree Remover",
+            "imgName": "BirchTreeRemoverBanner",
+            "desc": "Removes birch trees from any biome that isn't a Birch Forest biome or variant thereof. Only works in newly generated chunks, not previously generated.",
+            "repo": "",
+            "pmc": "https://www.planetminecraft.com/data-pack/birch-remover/",
+            "dirdl": "https://www.planetminecraft.com/data-pack/birch-remover/download/file/14982580/"
         }
     ]
 }

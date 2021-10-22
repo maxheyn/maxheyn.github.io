@@ -13,14 +13,14 @@ import config from '../config.json'
 export default function Projects() {
     return (
         <div>
-            <Typography variant="h6" component="h2" gutterBottom color="primary" align="center">
-                Projects
+            <Typography variant="h1" component="h2" gutterBottom color="primary" align="center">
+                My Projects
             </Typography>
 
             <Container fixed>
                 <Grid container spacing={4} justifyContent="center">
                     {
-                        config.projects.map(project =>
+                        config.minecraftProjects.map(project =>
                             <Grid item key={project.id} xs={12} md={6} lg={4}>
                                 <ProjectCard proj={project} />
                             </Grid>

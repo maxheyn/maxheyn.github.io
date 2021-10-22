@@ -24,8 +24,8 @@ export default function ProjectCard({ proj }) {
                 sx={{ height: 1 / 2 }}
             />
             <CardContent>
-                <Typography gutterBottom variant="h4" component="div">{proj.title}</Typography>
-                <Typography variant="body2" color="text.secondary">{proj.desc}</Typography>
+                <Typography gutterBottom variant="h5" component="div" sx={{ fontWeight: 'bold' }}>{proj.title}</Typography>
+                <Typography variant="subtitle2" color="text.secondary">{proj.desc}</Typography>
             </CardContent>
             <CardActions >
                 <Button color='inherit' href={proj.repo} startIcon={<GitHubIcon />}>GitHub</Button>
