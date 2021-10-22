@@ -1,0 +1,10 @@
+{
+    "palette": {
+        "background": {
+            "default": "#222222"
+        },
+        "text": {
+            "primary": "#ffffff"
+        }
+    }
+}

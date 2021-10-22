@@ -1,0 +1,71 @@
+{
+    "contacts": {
+        "github": "https://github.com/maxheyn",
+        "linkedin": "",
+        "email": "",
+        "planetminecraft": "",
+        "discord": ""
+    },
+    "projects": [
+        {
+            "id": 0,
+            "title": "Miniblock Traders",
+            "subtitle": "Bite-Sized Decoration",
+            "imgName": "GitHubMiniblockTradersBanner",
+            "desc": "test descrtiption bleh blehaha",
+            "repo": "https://github.com/maxheyn/miniblock_traders",
+            "pmc": "https://www.planetminecraft.com/data-pack/miniblock-traders/",
+            "dirdl": "https://github.com/maxheyn/miniblock_traders/releases/download/v2.4.5/miniblock_traders.zip"
+        },
+        {
+            "id": 1,
+            "title": "City Districts",
+            "subtitle": "RPG-Like Titles",
+            "imgName": "GitHubCityDistrictsBanner",
+            "desc": "test other description lbla blah",
+            "repo": "https://github.com/maxheyn/city_districts",
+            "pmc": "https: //www.planetminecraft.com/data-pack/city-districts/",
+            "dirdl": "https://github.com/maxheyn/city_districts/releases/download/v2.0.0/city_districts.zip"
+        },
+        {
+            "id": 2,
+            "title": "Miniblock Traders",
+            "subtitle": "Bite-Sized Decoration",
+            "imgName": "GitHubMiniblockTradersBanner",
+            "desc": "test descrtiption bleh blehaha",
+            "repo": "https://github.com/maxheyn/miniblock_traders",
+            "pmc": "https://www.planetminecraft.com/data-pack/miniblock-traders/",
+            "dirdl": "https://github.com/maxheyn/miniblock_traders/releases/download/v2.4.5/miniblock_traders.zip"
+        },
+        {
+            "id": 3,
+            "title": "City Districts",
+            "subtitle": "RPG-Like Titles",
+            "imgName": "GitHubCityDistrictsBanner",
+            "desc": "test other description lbla blah",
+            "repo": "https://github.com/maxheyn/city_districts",
+            "pmc": "https: //www.planetminecraft.com/data-pack/city-districts/",
+            "dirdl": "https://github.com/maxheyn/city_districts/releases/download/v2.0.0/city_districts.zip"
+        },
+        {
+            "id": 4,
+            "title": "Miniblock Traders",
+            "subtitle": "Bite-Sized Decoration",
+            "imgName": "GitHubMiniblockTradersBanner",
+            "desc": "test descrtiption bleh blehaha",
+            "repo": "https://github.com/maxheyn/miniblock_traders",
+            "pmc": "https://www.planetminecraft.com/data-pack/miniblock-traders/",
+            "dirdl": "https://github.com/maxheyn/miniblock_traders/releases/download/v2.4.5/miniblock_traders.zip"
+        },
+        {
+            "id": 5,
+            "title": "City Districts",
+            "subtitle": "RPG-Like Titles",
+            "imgName": "GitHubCityDistrictsBanner",
+            "desc": "test other description lbla blah",
+            "repo": "https://github.com/maxheyn/city_districts",
+            "pmc": "https: //www.planetminecraft.com/data-pack/city-districts/",
+            "dirdl": "https://github.com/maxheyn/city_districts/releases/download/v2.0.0/city_districts.zip"
+        }
+    ]
+}
